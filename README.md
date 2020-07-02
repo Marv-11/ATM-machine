@@ -1,10 +1,7 @@
 Automated Teller Machine
 
-The project is an ATM machine that saves users records in a txt file
 
-The code works as below:
-
-create an ATM Machine program that allows a user to choose one of the following introduction menu items:
+The ATM Machine program allows a user to choose one of the following introduction menu items:
 
     1) Create a bank account by supplying a user id and password.
     

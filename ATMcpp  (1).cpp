@@ -1,6 +1,5 @@
 ﻿
 //  Shatha.cpp
-//  Shatha Ali Mubarak 18-0478
 //
 
 #include <iostream>

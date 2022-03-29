@@ -1,5 +1,4 @@
 // Shatha_atm.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Shatha Ali Mubarak 18-0478
 
 
 #include <iostream>

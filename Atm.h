@@ -1,5 +1,4 @@
 #pragma once
-//Shatha Ali Mubarak 18-0478
 
 #ifndef shatha_h
 #define shatha_h
